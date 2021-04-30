@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'Opt_HC_CG',         # How you named your package folder (MyLib)
   packages = ['Opt_HC_CG'],   # Chose the same as "name"
-  version = '0.2',      # Start with a small number and increase it with every change you make
+  version = '0.3',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Use hill climbing to solve tsp',   # Give a short description about your library
   author = 'Carlos',                   # Type in your name
